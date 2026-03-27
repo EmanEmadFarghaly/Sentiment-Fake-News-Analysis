@@ -1,6 +1,5 @@
 # Sentiment-Fake-News-Analysis
 Supervised Learning Course Project
-# 📌 Sentiment & Fake News Detection Pipeline
 
 ## 📖 Overview
 This project builds a complete **Natural Language Processing (NLP) pipeline** for:
